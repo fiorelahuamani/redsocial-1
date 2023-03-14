@@ -1,2 +1,0 @@
-# redsocial
- proyecto
